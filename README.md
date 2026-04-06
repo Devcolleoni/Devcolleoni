@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Gustavo Coleoni de Carvalho, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Senac. Tambem sou Formado em tecnico em Informatica pelo Senac.
+Me chamo Gustavo Coleoni de Carvalho, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na São Paulo Tech School. Tambem sou Formado em tecnico em Informatica pelo Senac.
 
 ---
 
